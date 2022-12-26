@@ -11,21 +11,21 @@ class HomePage extends StatefulWidget {
   _HomePageState createState() => _HomePageState();
 }
 
-final List<String> judul = <String>[
+List<String> judul = <String>[
   'Makanan Indonesia',
   'Makanan Western',
   'Makanan Jepang'
 ];
-final List<String> rate = <String>['4.5', '4.3', '4.5'];
+List<String> rate = <String>['4.5', '4.3', '4.5'];
 final List<String> waktu = <String>[
   '10-15 Menit',
   '10-25 Menit',
   '10-20 Menit'
 ];
-final List<String> gambar = <String>[
-  'assets/images/nasgor.jpg',
-  'assets/images/steak.jpg',
-  'assets/images/sushi.jpg'
+List<String> gambar = <String>[
+  'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/nasgor.jpg',
+  'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/steak.jpg',
+  'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/sushi.jpg'
 ];
 
 class _HomePageState extends State<HomePage> {

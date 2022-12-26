@@ -51,8 +51,8 @@ class ParentState extends State<Indo> {
 //Data Array Resep
 const Title = ['Nasi Goreng Sederhana', 'Bakmi Goreng Kampung'];
 const imagesrc = [
-  'assets/images/nasgor.jpg',
-  'assets/images/bakmi.jpeg',
+  'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/nasgor.jpg',
+  'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/bakmi.jpeg',
 ];
 const Ingredients = [
   'Bahan:' +

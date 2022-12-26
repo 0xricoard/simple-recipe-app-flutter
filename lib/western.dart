@@ -50,7 +50,10 @@ class ParentState extends State<Western> {
 
 //Data Array Resep
 const Title = ['Hamburger Sederhana', 'Steak Daging Sirloin'];
-const imagesrc = ['assets/images/hamburger.jpg', 'assets/images/steak.jpg'];
+const imagesrc = [
+  'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/hamburger.jpg',
+  'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/steak.jpg'
+];
 const Ingredients = [
   'Bahan:' +
       '\n- 1/2 kg daging sapi giling\n- 4 roti tawar\n- 1/2 bawang bombay, iris\n- 2 batang daun selada, iris tipis\n- 1/4 wortel, iris tipis\n- saus tomat secukupnya\n- saus mustard secukupnya\n- saus mayones secukupnya\n- keju parut secukupnya\n' +
