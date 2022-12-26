@@ -49,7 +49,7 @@ class ParentState extends State<Japan> {
 }
 
 //Data Array Resep
-const Title = ['Sushi Rumahan', 'Ramen'];
+const Title = ['Sushi Rumahan', 'Ramen Rumahan'];
 const imagesrc = [
   'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/sushi.jpg',
   'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/ramen.jpg',
