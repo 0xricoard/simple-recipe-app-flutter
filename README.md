@@ -1,7 +1,7 @@
 
 # Resepku App
 
-Simple Flutter Recipe App This application uses array and list builder to display the recipe items.
+Simple Flutter Recipe App
 This application uses array and list builder to display the recipe items.
 # UI Preview
 
