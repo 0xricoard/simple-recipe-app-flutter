@@ -54,7 +54,6 @@ class _HomePageState extends State<HomePage> {
                   textAlign: TextAlign.center,
                 ),
               ),
-              // bagian menu Makanan Indonesia
               ListView.builder(
                 shrinkWrap: true,
                 itemCount: judul.length,
