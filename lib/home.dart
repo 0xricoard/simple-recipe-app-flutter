@@ -17,11 +17,7 @@ List<String> judul = <String>[
   'Makanan Jepang'
 ];
 List<String> rate = <String>['4.5', '4.3', '4.5'];
-final List<String> waktu = <String>[
-  '10-15 Menit',
-  '10-25 Menit',
-  '10-20 Menit'
-];
+List<String> waktu = <String>['10-15 Menit', '10-25 Menit', '10-20 Menit'];
 List<String> gambar = <String>[
   'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/nasgor.jpg',
   'https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/steak.jpg',
