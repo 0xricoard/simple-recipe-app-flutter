@@ -1,16 +1,11 @@
-# resepku_app
 
-A new Flutter project.
+# Resepku App
 
-## Getting Started
+Simple Flutter Recipe App
+This application uses array and list builder to display the recipe items.
+# UI Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Homepage Screen
+ ![image](https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/5880C0C4-6911-418E-BA46-9F9AF5A496DA.png)
+- Recipe Screen
+ ![image](https://raw.githubusercontent.com/0xricoard/simple-recipe-app-flutter/master/assets/images/Screenshot_20221227-151655.png)
